@@ -8,7 +8,7 @@ export default function ProjectJourney() {
           <div className="grid gap-4 mx-4 sm:grid-cols-12">
             <div className="col-span-12 sm:col-span-3">
               <div className="text-center sm:text-left mb-14 before:block before:w-24 before:h-3 before:mb-5 before:rounded-md before:mx-auto sm:before:mx-0 before:bg-primary">
-                <h3 className="brygada text-3xl font-semibold text-slate-700">Nossas trajetória</h3>
+                <h3 className="brygada text-3xl font-semibold text-slate-700">Nossa trajetória</h3>
 
                 <span className="text-sm font-medium tracking-wider text-slate-600">
                   Premiações e reconhecimentos que recebemos ao longo do caminho
@@ -103,7 +103,7 @@ export default function ProjectJourney() {
                       className="w-full mt-5"
                     />
                     <figcaption className="text-center text-xs italic mt-1">
-                      Apresentação dos Country Winner - Intel® AI Global Impact Festival 2024 - na
+                      Apresentação dos Country Winners - Intel® AI Global Impact Festival 2024 - na
                       sede da Intel® Brasil
                     </figcaption>
                   </figure>

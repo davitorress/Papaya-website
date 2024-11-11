@@ -7,9 +7,9 @@ export default function About() {
         className="min-h-[80dvh] object-cover w-full"
       />
 
-      <section className="-mt-24 py-12 px-16 mx-auto max-w-6xl relative z-10 bg-slate-100">
-        <div className="flex items-center mb-11">
-          <span className="text-5xl text-slate-700 border-e-2 border-slate-300 w-1/3 text-center mx-3">
+      <section className="-mt-24 py-12 px-6 md:px-16 mx-auto max-w-6xl relative z-10 bg-slate-100">
+        <div className="flex flex-col md:flex-row items-center gap-4 md:gap-0 mb-11">
+          <span className="text-5xl text-slate-700 pb-3 md:pb-0 border-b-2 md:border-e-2 md:border-b-0 border-slate-300 w-1/3 text-center mx-3">
             PPY
           </span>
           <h1 className="text-5xl text-gray-600 w-2/3 text-center">

@@ -2,8 +2,8 @@ import AvatarCard from "../ui/avatar-card"
 
 const TEAM = [
   { url: "/assets/davi.jpg", name: "Davi Torres", position: "Desenvolver Front-end" },
-  { url: "/assets/davi.jpg", name: "João Arthur", position: "Desenvolvedor Back-end" },
-  { url: "/assets/davi.jpg", name: "Matheus Felipe", position: "Desenvolvedor de IA" },
+  { url: "/assets/joao.jpeg", name: "João Arthur", position: "Desenvolvedor Back-end" },
+  { url: "/assets/matheus.jpeg", name: "Matheus Felipe", position: "Desenvolvedor de IA" },
 ]
 
 export default function Team() {
@@ -14,7 +14,7 @@ export default function Team() {
         <p className="text-sm text-gray-500">Conheça os membros do nosso time</p>
       </div>
 
-      <section className="flex items-center justify-evenly">
+      <section className="flex flex-col md:flex-row gap-6 md:gap-0 items-center justify-evenly">
         {TEAM.map((member, index) => (
           <AvatarCard key={index} {...member} />
         ))}

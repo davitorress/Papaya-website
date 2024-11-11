@@ -7,7 +7,7 @@ export default function Header() {
       <nav className="px-16 py-4 size-full flex flex-col lg:flex-row justify-between items-center gap-4 lg:gap-0">
         <img src="/papaya/logo-min.svg" alt="Papaya | Logo" className="h-14" />
 
-        <ul className="flex gap-4">
+        <ul className="flex flex-col md:flex-row gap-4">
           <li>
             <a href="#about">
               <Button className="text-lg" startIcon={<BadgeInfoIcon />}>

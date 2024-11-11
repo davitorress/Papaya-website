@@ -8,7 +8,7 @@ export default function Activity() {
       </div>
 
       <section className="flex flex-col gap-16">
-        <div className="grid grid-cols-2 items-center justify-items-center mx-auto">
+        <div className="grid md:grid-cols-2 gap-8 items-center justify-items-center max-w-6xl mx-auto">
           <div>
             <ChartNoAxesCombinedIcon size={32} className="text-primary mb-4" />
             <h4 className="brygada text-3xl text-slate-700 mb-2">Solucionando problemas</h4>
@@ -22,15 +22,15 @@ export default function Activity() {
           <img
             src="/assets/about-talking.png"
             alt="Papaya | Resolving Problems"
-            className="size-64"
+            className="size-52 md:size-64"
           />
         </div>
 
-        <div className="grid grid-cols-2 items-center justify-items-center max-w-6xl mx-auto">
+        <div className="grid md:grid-cols-2 gap-8 items-center justify-items-center max-w-6xl mx-auto">
           <img
             src="/assets/about-computer.jpg"
             alt="Papaya | Developing Solutions"
-            className="size-64"
+            className="size-52 md:size-64 hidden md:block"
           />
 
           <div>
@@ -41,6 +41,12 @@ export default function Activity() {
               terá a melhor adesão do sistema pelo usuário.
             </p>
           </div>
+
+          <img
+            src="/assets/about-computer.jpg"
+            alt="Papaya | Developing Solutions"
+            className="size-52 md:size-64 md:hidden"
+          />
         </div>
       </section>
     </section>
