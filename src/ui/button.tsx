@@ -7,11 +7,13 @@ const styles = tv({
     theme: {
       primary: "bg-primary text-white",
       ghost: "bg-transparent text-white",
+      "ghost-dark": "bg-transparent text-black",
       disabled: "bg-gray-200 text-gray-400",
     },
     hover: {
       primary: "hover:bg-secondary",
       ghost: "hover:bg-primary hover:text-white",
+      "ghost-dark": "hover:bg-primary",
     },
   },
   defaultVariants: {
