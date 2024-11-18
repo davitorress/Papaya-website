@@ -27,8 +27,13 @@ export default function ProjectJourney() {
                   </div>
                   <time className="text-xs font-medium tracking-wide uppercase">2023-1</time>
                   <p className="mt-3">
-                    Pellentesque feugiat ante at nisl efficitur, in mollis orci scelerisque.
-                    Interdum et malesuada fames ac ante ipsum primis in faucibus.
+                    O Osiris nasceu da nossa experiência pessoal como fundadores do Osiris, ao
+                    adotarmos as PANC (Plantas Alimentícias Não-Convencionais) em nosso dia a dia.
+                    Reconhecemos o alto valor nutricional e os inúmeros benefícios que essas plantas
+                    oferecem à saúde, mas percebemos também a dificuldade que muitas pessoas têm em
+                    identificá-las e utilizá-las. Com isso, surgiu a ideia de criar uma ferramenta
+                    prática e acessível que pudesse ajudar a implementar as PANC na rotina
+                    alimentar, promovendo uma alimentação mais saudável e sustentável para todos.
                   </p>
                 </div>
 
@@ -39,8 +44,11 @@ export default function ProjectJourney() {
                   </div>
                   <time className="text-xs font-medium tracking-wide uppercase">2024-1</time>
                   <p className="mt-3">
-                    Pellentesque feugiat ante at nisl efficitur, in mollis orci scelerisque.
-                    Interdum et malesuada fames ac ante ipsum primis in faucibus.
+                    O projeto Osiris alcançou o TRL nível 4 quando o conceito do aplicativo já
+                    estava bem estruturado, com ideias maduras sobre suas funcionalidades, produtos
+                    associados e processos para coleta e organização das informações sobre PANCs.
+                    Nessa fase, o foco foi detalhar a experiência do usuário e validar os principais
+                    componentes do sistema.
                   </p>
                 </div>
 
@@ -53,8 +61,16 @@ export default function ProjectJourney() {
                   </div>
                   <time className="text-xs font-medium tracking-wide uppercase">2024-1</time>
                   <p className="mt-3">
-                    Pellentesque feugiat ante at nisl efficitur, in mollis orci scelerisque.
-                    Interdum et malesuada fames ac ante ipsum primis in faucibus.
+                    O projeto Osiris alcançou um marco importante ao conquistar o 1º lugar na
+                    Exposição de Projetos da Fatec Registro (FTX). Essa premiação reconheceu o
+                    esforço da equipe em criar uma solução tecnológica inovadora para a
+                    identificação e valorização das PANC (Plantas Alimentícias Não-Convencionais).
+                  </p>
+                  <p className="mt-3">
+                    Durante o evento, o Osiris se destacou por sua proposta de unir inteligência
+                    artificial, sustentabilidade e saúde, recebendo elogios por seu potencial de
+                    impacto social e ambiental. Essa conquista foi um momento significativo na
+                    trajetória do projeto, reafirmando sua relevância e motivando novos avanços.
                   </p>
                 </div>
 
@@ -65,8 +81,18 @@ export default function ProjectJourney() {
                   </div>
                   <time className="text-xs font-medium tracking-wide uppercase">2024-2</time>
                   <p className="mt-3">
-                    Pellentesque feugiat ante at nisl efficitur, in mollis orci scelerisque.
-                    Interdum et malesuada fames ac ante ipsum primis in faucibus.
+                    Após uma série de etapas de desenvolvimento e validação rigorosa, o sistema
+                    Osiris alcançou o nível 6 na escala de Maturidade de Tecnologia (TRL 6). Esse
+                    resultado comprova sua funcionalidade em um ambiente relevante, com testes em
+                    campo que demonstraram a eficiência do aplicativo na identificação de plantas e
+                    na disseminação de informações úteis ao público.
+                  </p>
+                  <p className="mt-3">
+                    Essa conquista marca um avanço significativo no desenvolvimento do projeto,
+                    reforçando sua viabilidade e aproximando-o da aplicação prática em larga escala.
+                    É importante destacar que, no momento dessa realização, o Osiris se destacou
+                    como o único projeto na Fatec Registro a alcançar o TRL 6, consolidando sua
+                    posição como uma iniciativa pioneira e inovadora.
                   </p>
                 </div>
 
